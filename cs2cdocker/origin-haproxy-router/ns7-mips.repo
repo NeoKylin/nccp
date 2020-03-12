@@ -1,0 +1,6 @@
+[origin]
+name=NeoKylin Linux Advanced Server 7 - origin
+baseurl=http://10.1.60.155/repos/origin/
+gpgcheck=0
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-neokylin-release
+enabled=1
